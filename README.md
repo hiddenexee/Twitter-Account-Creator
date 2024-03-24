@@ -7,6 +7,7 @@
 - No Third Party Apis
 - Full Requests
 - Need a proxy
+- Account unlocker
  
 # Contact:
 
