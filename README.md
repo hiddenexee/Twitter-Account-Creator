@@ -1,8 +1,6 @@
 <div align="center">
   <h1>🗙 Twitter Account Creator</h1>
 </div>
-
-NEW UPDATE 19.09.2024
  
 # Features:
 
